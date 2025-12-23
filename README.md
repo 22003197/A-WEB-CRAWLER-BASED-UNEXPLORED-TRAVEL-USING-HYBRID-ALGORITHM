@@ -38,6 +38,7 @@ ATLAS Scout Bot is a web crawler–based travel recommendation system that helps
 <img width="538" height="551" alt="Screenshot 2025-12-23 112546" src="https://github.com/user-attachments/assets/536ba88d-4373-4500-bb40-cf7f010709f1" />
 
 . Detection Accuracy: 92%
+
 . Precision: 89% 
 
 ## Results and Impact
